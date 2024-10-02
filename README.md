@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently finishing my last year of Bachelor's in Computer Science Engineering. I am also a part time IT consultant intern in a firm called Management Solutions.<br>👯 I'm looking to collaborate with innovative and organised individuals or companies that aim for improvement at all times.s <br>🤝 I'm looking for help with finding the right role and trying to learn new technologies that have a good impact<br>🌱  I'm currently learning Front-End Development using React.js and soon I'm looking to learn .NET for back-end.<br>💬 Ask me about anything, I'm an open book!<br>
+🔭 I hold a  Bachelor's in Computer Science Engineering. I'm a Technology Analyst @ Deloitte where I work with Strategy, Risk & Transactions.<br>👯 I'm looking to collaborate with innovative and organised individuals or companies that aim for improvement at all times.s <br>🤝 I'm looking for help with finding the right role and trying to learn new technologies that have a good impact<br><br>💬 Ask me about anything, I'm an open book!<br>
 
 
 ## 🌐 Socials:
