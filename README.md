@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I hold a  Bachelor's in Computer Science Engineering. I'm a Technology Analyst @ Deloitte where I work with Strategy, Risk & Transactions.<br>👯 I'm looking to collaborate with innovative and organised individuals or companies that aim for improvement at all times.s <br>🤝 I'm looking for help with finding the right role and trying to learn new technologies that have a good impact<br>💬 Ask me about anything, I'm an open book!<br>
+🔭 I hold a  Bachelor's in Computer Science Engineering. I'm a Technology Consultant @ Deloitte where I work in Strategy, Risk & Transactions.<br>👯 I'm looking to collaborate with innovative and organised individuals or companies that aim for improvement and growth at all times.s <br>🤝 I'm looking for help to find the right role and to learn new technologies that have a great impact on the world.<br>💬 Ask me about anything, I'm an open book!<br>
 
 
 ## 🌐 Socials:
